@@ -2,7 +2,7 @@
 <b>An easy way to activate Windows 10 Pro linsans free This program is completely free. No charge will be charged to you, and no damage will be caused to your device (Windows)</b>
 
 <h1>Using</h1>
-<b>the .exe file as an administrator. Say OK to later notifications. Then your Windows will be activated</b>
+<b>Start the .exe file as an administrator. Say OK to later notifications. Then your Windows will be activated</b>
 
 <h1>İmages</h1>
 <img src="https://i.resmim.net/i/1-72.png" width="700">
